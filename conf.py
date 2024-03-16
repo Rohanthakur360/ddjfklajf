@@ -1,6 +1,6 @@
 # config file
 
 config = {
-    "token": "6805325227:AAFmxPj-_D_-CJajunSy-C-beXzuGoesXJg",
+    "token": "6731132205:AAGUIBPZp3aNqOflkSGlSMUitFfLhsb146M",
     "whoami": "Fname: {}\nLname: {}\nUname: {}\nChatID: `{}\n`",
 }
